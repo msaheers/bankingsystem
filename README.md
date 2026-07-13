@@ -87,3 +87,16 @@ This simulates a simple file-based persistence mechanism commonly used in legacy
 * Store transaction history
 * Improve PIN validation and security
 * Add support for multiple bank accounts
+
+## Sources 
+
+Overstackflow. 
+AI - Chatgpt basic plan ( Not just doing CTRL+C || CTRL + V, througout the journey of my COBOL project, I treated gpt as my professor, asked questions, and made sure that to breakdown all the logic behind, 
+Took notes, kept debugging, had many debugging scenerios, I made myself in a position to stress myself, how to put an effort rather getting an answer in quick succession. 
+I prompted in a way that AI doesnt give me answers, just hints. 
+Once I understood the errros, I took the notes, and referred those NOTES when it kept repeating the same errors, once I understood the logic behind the errors, It was much easier to debug. 
+Primary source that I really got the base in regards to COBOL is from the FreeCodeCamp : 
+
+```bash
+https://www.youtube.com/watch?v=RdMAEdGvtLA&t=977s
+```
